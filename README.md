@@ -2,6 +2,8 @@
 
 This document is for collaborating on a 1 to 2 day training in DC to compliment the FedGeo Day event. Currently the plan is to have these events at different times of the year. The purpose of these events is to build community and adoption in the DC area.
 
+If you would like to collaborate, fork this repo and then update the codument and put in a pull request. Feedback is welcome.
+
 ## Initial Topics to be covered by a one to two day training schedule
 
 ### GeoServer
